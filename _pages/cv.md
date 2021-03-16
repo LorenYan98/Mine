@@ -9,7 +9,7 @@ redirect_from:
  
 {% include base_path %}
 
-
+ 
 _Education_
 ======
 * **_B.S. in Civil Engineering, McGill University_**, **_2016.09 -2020.12_**     
