@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+    
+  #- title: "Timeline"
+  #  url: /year-archive/ 
+
+  - title: "Project"
+    url: /portfolio/
+
+    
+
