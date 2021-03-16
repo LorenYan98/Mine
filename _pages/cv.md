@@ -55,14 +55,6 @@ _Work experience_
    * Collaborated with colleagues in Arup London office in the Whiteboard Project (Dublin), performed a detailed design report for steel beams at School Macroom based on the EuroCode.
    * Contributed to the design software ‘DesignCheck2’, applied my coding skills with C# via Visual Studio Code to create [a comprehensive check for a W-section element](https://lorenyan98.github.io/LY.github.io/portfolio/2021-03-08-designcheck/) in accordance with Canadian Code CSA S16-14. 
 
-
-* **2020.05 – 2020.08**  
-   **WSP** (Toronto, ON, Canada) **Structural engineer intern**, 
-   * Worked with the Civil infrastructure department on a bridge design as part of my internship program
-   * Learned to use different softwares such as Revit, Sketchup and bluebeam as part of the BIM team
-   * Partook in the operation of a BIM design portfolio for the Cogswell project, which included designing, rendering, attending meetings with stakeholders and on site inspections to update the BIM design
-
-
 * **2019.05 – 2019.06**  
    **ShuiShi Design** (Shanghai, China) **CAD technician intern**,
   * Designed an entrance and a glass awning for the garage. Created the design plan with AutoCAD and their 3D models with SketchUp. Presented the design methodology to the supervisor through PowerPoint.
