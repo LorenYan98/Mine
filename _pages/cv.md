@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " "
-permalink: 'https://lorenyan98.github.io/Mine/cv/'
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
